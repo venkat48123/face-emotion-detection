@@ -15,7 +15,6 @@ __pycache__/
 .ipynb_checkpoints
 
 # Datasets and Models
-dataset/
 *.h5
 
 # OS generated files
